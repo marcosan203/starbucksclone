@@ -143,57 +143,26 @@ body {
 
 /* FOOTER - INICIO */
 .footer-area {
-    margin-top: 22px;
-    width: 100vw;
-    height: 550px;
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .7), 0 2px 8px 0 rgba(0, 0, 0, .5), 0 1px 5px 0 rgba(0, 0, 0, .1);
+ 
 }
-
 .footer-content {
-    padding-top: 40px;
-    padding-left: 100px;
+ 
 }
-
 .footer-row {
-    display: flex;
+ 
 }
-
 .footer-col {
-    margin-right: 80px;
+ 
 }
-
-.col-title {}
-
+.col-title {
+ 
+}
 .footer-col ul {
-    display: flex;
-    flex-direction: column;
-    width: 180px;
-
+ 
 }
-
 .footer-col li {
-    list-style: none;
-    margin-top: 25px;
+   
 }
-
 .footer-col li a {
-    text-decoration: none;
-    color: rgba(0, 0, 0, .56);
-    font-size: 14px
-}
-
-.footer-col li a:hover {
-    color: #222;
-}
-
-.img-responsive {
-    display: block;
-    width: 90px;
-    height: 40px;
-}
-
-.linha {
-    margin-top: 47px;
-    border: 1px solid #F2F2F2;
-    width: 90%;
+   
 }
